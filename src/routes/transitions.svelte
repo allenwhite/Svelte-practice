@@ -8,7 +8,7 @@
     .centered {
         position: absolute;
         left: 50%;
-        right: 50%;
+        top: 150%;
         transform: translate(-50%, -50%);
     }
 
